@@ -1,6 +1,6 @@
 ### Hi there! 👋👋
 
-I'm a software developer who loves keeping my skills up-to-date and always looking for new challenges. 👩‍💻
+I'm a full-stack engineer who loves keeping my skills up-to-date and always looking for new challenges. 👩‍💻
 
 📡 | 📆
 --|--
